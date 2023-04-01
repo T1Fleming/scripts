@@ -1,3 +1,7 @@
+# Directory of Scripts
 
-## What does this do?
-Print the path for intersecting values that are different
+
+
+| Script      | Description |
+| ----------- | ----------- |
+| [Compare Intersecting Changes](./compare/readme.md)      | Detects a changes for similar keys between 2 json objects       |
